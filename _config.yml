@@ -12,7 +12,7 @@ github_repo: "https://github.com/taoeternal2018/taoeternal2018.github.io.git" # 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "When your talent cannot support your ambition, you should get down learning; When your ability cannot realize your goals, you should concentrate on your experiencing."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/becareful.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
