@@ -1,9 +1,9 @@
 # Site settings
-title: BY Blog
-SEOTitle: Taoeternal的博客 | BY Blog
+title: Taoeternal Blog
+SEOTitle: Taoeternal的博客 | Taoeternal Blog
 header-img: img/post-bg-desk.jpg
 email: lionking.cn@gmail.com
-description: "When your talent cannot support your ambition, you should get down learning; When your ability cannot realize your goals, you should concentrate on your experiencing."
+description: "勤学如初起之苗，不见其增，日有所长；辍学如磨刀之石，不见其损，日有所亏。"
 keyword: "taoeternal, python, frontend, .net"
 url: "http://taoeternal2018.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
