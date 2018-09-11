@@ -4,7 +4,7 @@
 > 
 > 更为详细的教程戳这 [《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 或 [wiki](https://github.com/TaoEternal/TaoEternal.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
 > 
-### [我的博客在这里 &rarr;](http://TaoEternal.github.io)
+### [我的博客在这里 &rarr;](http://TaoEternal2018.github.io)
 
 ![](https://raw.githubusercontent.com/TaoEternal/TaoEternal.github.io/master/img/readme-home.png)
 
@@ -43,9 +43,9 @@
 
 ```
 # Site settings
-title: BY Blog                    # 你的博客网站标题
-SEOTitle: 柏荧的博客 | BY Blog		# SEO 标题
-description: "Hey"	   	   # 随便说点，描述一下
+title: Taoeternal's Blog                    # 你的博客网站标题
+SEOTitle: Tao的博客 | Tao Blog		# SEO 标题
+description: "勤学如初起之苗，不见其增，日有所长；辍学如磨刀之石，不见其损，日有所亏。"	   	   # 随便说点，描述一下
 
 # SNS settings      
 github_username: TaoEternal     # 你的github账号
