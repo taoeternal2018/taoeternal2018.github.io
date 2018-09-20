@@ -10,6 +10,7 @@ tags:
     - python
     - virtualenv
 ---
+
 windows下安装Python虚拟环境virtualenvwrapper-win
 1 前言
 由于Python的版本众多，还有Python2和Python3的争论，因此有些软件包或第三方库就容易出现版本不兼容的问题。
