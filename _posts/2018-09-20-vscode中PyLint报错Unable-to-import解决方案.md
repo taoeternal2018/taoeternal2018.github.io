@@ -1,5 +1,14 @@
 ---
-title:vscode中PyLint报错Unable to import解决方案
+layout:     post
+title:      vscode中PyLint报错Unable to import解决方案
+subtitle:   vscode中PyLint报错Unable to import解决方案
+date:       2018-09-04
+author:     Taoeternal
+header-img: img/post-bg-coffee.jpeg
+catalog: true
+tags:
+    - vscode中PyLint报错Unable
+    - 开发技巧
 ---
 vscode中PyLint报错Unable to import解决方案
 在导入其它文件夹中py文件的时候，即使在代码中添加了指定路径，由于Pylint 无法检测到该文件，会给出Unable to import 'xxx'的错误提示
