@@ -11,7 +11,7 @@ tags:
     - 开发技巧
 ---
 ![image](http://www.zenithalsoft.com/img/dummies/sharepoint_2013.png)
-isAdmin = _spPageContextInfo.isSiteAdmin
+isAdmin = _spPageContextInfo.isSiteAdmin;
 
 var ctx = new SP.ClientContext.get_current();
 var web = ctx.get_web();
