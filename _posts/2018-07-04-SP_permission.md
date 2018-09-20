@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Xcode9 无线调试功能
-subtitle:   zsh的快速配置
-date:       2018-07-04
+title:      SP_permission
+subtitle:   SP_permission
+date:       2018-09-04
 author:     Taoeternal
 header-img: img/post-bg-coffee.jpeg
 catalog: true
