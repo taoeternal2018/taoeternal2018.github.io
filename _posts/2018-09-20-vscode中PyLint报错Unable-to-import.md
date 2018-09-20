@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      vscode中PyLint报错Unable to import解决方案
-subtitle:   vscode中PyLint报错Unable to import解决方案
+title:      vscode中PyLint报错Unable-to-import
+subtitle:   vscode中PyLint报错Unable-to-import
 date:       2018-09-04
 author:     Taoeternal
 header-img: img/post-bg-coffee.jpeg
