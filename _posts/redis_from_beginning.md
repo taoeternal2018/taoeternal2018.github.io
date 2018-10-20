@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      redis from beginning？
+subtitle:   redis
+date:       2018-10-19
+author:     BY
+header-img: img/post-bg-ios9-web.jpg
+catalog: 	 true
+tags:
+    - redis
+---
 Step1: install redis server:             sudo apt-get install redis-server
 Step2: install redis python client:      pip install redis
 Step3: a redis hello world:
