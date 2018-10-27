@@ -10,7 +10,9 @@ tags:
     - redis
 ---
 Step1: install redis server:             sudo apt-get install redis-server
+
 Step2: install redis python client:      pip install redis
+
 Step3: a redis hello world:
 
 import redis
