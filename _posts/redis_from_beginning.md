@@ -12,17 +12,8 @@ tags:
 Step1: install redis server:             sudo apt-get install redis-server
 
 Step2: install redis python client:      pip install redis
-(启动 Redis
-$ redis-server
-查看 redis 是否启动？
-$ redis-cli
-以上命令将打开以下终端：
 
-redis 127.0.0.1:6379>
-127.0.0.1 是本机 IP ，6379 是 redis 服务端口。现在我们输入 PING 命令。
-
-redis 127.0.0.1:6379> ping
-PONG)
+![image](https://github.com/taoeternal2018/taoeternal2018.github.io/blob/master/img/TIM%E5%9B%BE%E7%89%8720181027231420.jpg)
 
 Step3: a redis hello world:
 
